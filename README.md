@@ -15,6 +15,10 @@ This is a kafka sampler for testing different producer config.
 ### Add ext jar
 
     Copy `kafka-meter-1.0-SNAPSHOT.jar` to `JMETER_HOME/lib/ext`
+    
+### Create Plan
+
+    Add a Java Request with class `KafkaSampler`    
 
 ### Setting
 
